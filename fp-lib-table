@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name rpi-pico)(type KiCad)(uri ${KIPRJMOD}/lib/pico/MCU_RaspberryPi_and_Boards.pretty)(options "")(descr ""))
+  (lib (name logo)(type KiCad)(uri /home/leon/github/anavi/anavi-pico-protoboard/lib/logo/logo)(options "")(descr ""))
+)
